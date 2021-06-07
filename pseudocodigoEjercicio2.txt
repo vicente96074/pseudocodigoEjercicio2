@@ -1,0 +1,11 @@
+Inicio pseudocodigoEjercicio2
+	Variable numero
+	Variable i
+	
+	Escribir "Ingrese un numero(N): "
+	Leer numero
+	
+	Desde i=numero; hasta i=1; i=i-1 hacer
+		Escribir i + " "
+	FinDesde
+Fin
